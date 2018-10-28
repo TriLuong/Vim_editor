@@ -38,6 +38,25 @@ This may be wanted after using :set ignorecase to make searches case insensitive
     :%s/foo/bar/gcI
 --------------
 <h3>
+vimdiff
+</h3>
+
+<strong>do</strong> - Get changes from other window into the current window.
+
+<strong>dp</strong> - Put the changes from current window into the other window.
+
+<strong>]c</strong> - Jump to the next change.
+
+<strong>[c</strong> - Jump to the previous change.
+
+<strong>Ctrl W + Ctrl W</strong> - Switch to the other split window.
+
+---
+<h3>
 Reference:
 </h3>
-http://vim.wikia.com/wiki/Search_and_replace
+
+<a href="http://vim.wikia.com/wiki/Search_and_replace"> Search and Replace </a>
+
+<a href="http://amjith.blogspot.com/2008/08/quick-and-dirty-vimdiff-tutorial.html"> vimdiff </a>
+
